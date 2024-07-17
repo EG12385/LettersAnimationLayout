@@ -10,8 +10,8 @@
     "build": "npm run clean && npm run build:parcel"
   },
   "repository": {
-    "type": "git",
-    "url": "git://github.com/codrops/AnimatedCustomCursor.git"
+    "type": "https",
+    "url": "https://eg12385.github.io/LettersAnimationLayout/"
   },
   "keywords": [],
   "author": "Codrops",
